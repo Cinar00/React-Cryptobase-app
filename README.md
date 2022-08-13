@@ -1,3 +1,12 @@
+
+🔥 Live Site 🔥
+https://cryptobase-4066e.web.app/
+
+⚡ Crypto API Documentation ⚡ 
+https://www.coingecko.com/tr/api/documentation
+
+`<<<<<<<<<<<<<<<<<<<------------------------------------------------------------------------->>>>>>>>>>>>>>>>>>>>>>`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
